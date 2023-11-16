@@ -50,7 +50,7 @@ const mensajesDeError = {
     valueMissing: "Este campo no puede estar vacío",
     patternMismatch: "La ciudad debe contener entre 10 a 40 caracteres.",
   },
-  estado: {
+  departamento: {
     valueMissing: "Este campo no puede estar vacío",
     patternMismatch: "El estado debe contener entre 10 a 40 caracteres.",
   },
